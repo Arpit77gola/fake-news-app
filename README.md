@@ -1,1 +1,0 @@
-﻿# fake-news-detection-app
