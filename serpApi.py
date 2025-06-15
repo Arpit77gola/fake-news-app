@@ -1,4 +1,4 @@
-from serpapi import GoogleSearch
+from serpApi import GoogleSearch
 
 def get_search_results(query, max_results=5):
     params = {
