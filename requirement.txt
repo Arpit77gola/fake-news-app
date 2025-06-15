@@ -1,0 +1,7 @@
+streamlit
+torch
+fpdf
+openai
+matplotlib
+requests
+transformers
